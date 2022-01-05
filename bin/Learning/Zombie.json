@@ -1,0 +1,64 @@
+{
+    "contractName": "Zombie",
+    "abi": [],
+    "metadata": "{\"compiler\":{\"version\":\"0.8.11+commit.d7f03943\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"kind\":\"dev\",\"methods\":{},\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"/home/pradumna/coding/GitHub/Personal/Solidity/Learning/2 Contacts.sol\":\"Zombie\"},\"evmVersion\":\"london\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":true,\"runs\":200},\"remappings\":[]},\"sources\":{\"/home/pradumna/coding/GitHub/Personal/Solidity/Learning/2 Contacts.sol\":{\"keccak256\":\"0x5d3d0cdb00dc21af4bdf9eecc740d07342ae5295c002e6939c2f78c833db38a4\",\"urls\":[\"bzz-raw://7428d3292bb5cc3d6d9dccd239fc009af1c71d54a533bf9e6a314b91acff9b11\",\"dweb:/ipfs/QmPhGa3g7SKgTVem9g7ZFVT6qjfTFENqYpHvftGVXak7bD\"]}},\"version\":1}",
+    "bytecode": "6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea2646970667358221220e6027fc8886feca8acd104f23685e88929a85e671a7a19c3ed9cea641fdc8a2364736f6c634300080b0033",
+    "deployedBytecode": "6080604052600080fdfea2646970667358221220e6027fc8886feca8acd104f23685e88929a85e671a7a19c3ed9cea641fdc8a2364736f6c634300080b0033",
+    "sourceMap": "100:55:1:-:0;;;;;;;;;;;;;;;;;;;",
+    "deployedSourceMap": "100:55:1:-:0;;;;;",
+    "sourcePath": "/home/pradumna/coding/GitHub/Personal/Solidity/Learning/2 Contacts.sol",
+    "compiler": {
+        "name": "solc",
+        "version": "0.8.11+commit.d7f03943"
+    },
+    "ast": {
+        "absolutePath": "/home/pradumna/coding/GitHub/Personal/Solidity/Learning/2 Contacts.sol",
+        "exportedSymbols": {
+            "Zombie": [
+                40
+            ]
+        },
+        "id": 41,
+        "nodeType": "SourceUnit",
+        "nodes": [
+            {
+                "id": 39,
+                "literals": [
+                    "solidity",
+                    "0.8",
+                    ".11"
+                ],
+                "nodeType": "PragmaDirective",
+                "src": "0:23:1"
+            },
+            {
+                "abstract": false,
+                "baseContracts": [],
+                "canonicalName": "Zombie",
+                "contractDependencies": [],
+                "contractKind": "contract",
+                "fullyImplemented": true,
+                "id": 40,
+                "linearizedBaseContracts": [
+                    40
+                ],
+                "name": "Zombie",
+                "nameLocation": "109:6:1",
+                "nodeType": "ContractDefinition",
+                "nodes": [],
+                "scope": 41,
+                "src": "100:55:1",
+                "usedErrors": []
+            }
+        ],
+        "src": "0:155:1"
+    },
+    "functionHashes": {},
+    "gasEstimates": {
+        "creation": {
+            "codeDepositCost": "12600",
+            "executionCost": "66",
+            "totalCost": "12666"
+        }
+    }
+}
